@@ -26,10 +26,10 @@ public class webdriverdemo {
       driver.findElement(By.xpath("//*[@id=\"content\"]/table[2]/tbody/tr/td/div[3]/a")).click();    
       
       // Enter value 10 in the first number of the percent Calculator
-      driver.findElement(By.id("cpar1")).sendKeys("3");
+      driver.findElement(By.id("cpar1")).sendKeys("10");
       
       // Enter value 50 in the second number of the percent Calculator
-      driver.findElement(By.id("cpar2")).sendKeys("50");
+      driver.findElement(By.id("cpar2")).sendKeys("1000");
       
       // Click Calculate Button
       driver.findElement(By.xpath(".//*[@id = 'content']/table/tbody/tr[2]/td/input[2]")).click();

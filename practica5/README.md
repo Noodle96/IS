@@ -12,4 +12,8 @@ Pre-requisitos:
 
 Casos de Prueba en: http://www.calculator.net/
 
+Resultado:
 ![prueba](image/screenshotResult.png)
+![prueba](image/casoPrueba.png)
+
+Caso de Prueba:
