@@ -1,5 +1,5 @@
 
-## ** IS Practica 5**
+## **IS Practica 5**
 Automatizando pruebas funcionales de aplicaciones web utilizando Selenium Web Driver. 
 
 Siguiendo el tutorial: [Selenium Web Driver](https://www.tutorialspoint.com/selenium/selenium_webdriver.htm)
